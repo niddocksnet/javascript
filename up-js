@@ -1,4 +1,0 @@
-#bash file for deploying all code to niddocksnet/javascript public
-git add .
-git commit -m "Added Global-e"
-git push
